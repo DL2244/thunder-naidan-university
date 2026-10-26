@@ -1,0 +1,26 @@
+# Local credentials, data and generated/private material
+.env
+.env.*
+!.env.example
+**/community-config.local.js
+**/private/
+**/secrets/
+**/社区接入/
+**/*管理员*
+**/*授权码*
+**/*隐私*
+**/*验证结果*
+*.sql
+*.log
+*.pem
+*.key
+*.pfx
+*.sqlite*
+*.db
+*.zip
+work/
+outputs/
+node_modules/
+.vscode/
+.DS_Store
+Thumbs.db
